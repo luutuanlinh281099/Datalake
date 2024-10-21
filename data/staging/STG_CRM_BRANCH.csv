@@ -1,0 +1,5 @@
+BRANCH_ID, BRANCH_NAME, ADDRESS, COB_DT;
+1, mno1, add1, 2024-10-20;
+2, mno2, add2, 2024-10-20;
+1, mno1, add1, 2024-10-19;
+2, mno2, add2, 2024-10-19;

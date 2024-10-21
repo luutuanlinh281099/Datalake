@@ -1,0 +1,7 @@
+PRODUCT_ID, PRODUCT_NAME, STATUS, COB_DT;
+1, banca, active, 2024-10-20;
+2, x, active, 2024-10-20;
+3, y, inactive, 2024-10-20;
+1, banca, active, 2024-10-19;
+2, x, active, 2024-10-19;
+3, y, inactive, 2024-10-19;

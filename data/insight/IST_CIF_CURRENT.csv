@@ -1,0 +1,7 @@
+CIF, CID, NAME, AGE, SEX, PRIORITY, RM_NAME, RM_BRANCH, PRODUCT_ID, COB_DT;
+a, a1, aaa, 25, nam, 5, xyz, 1, 1, 2024-10-20;
+a, a2, aaa, 25, nam, 5, xyz, 1, 1, 2024-10-20;
+b, b1, aaa, 25, nữ, 1, xyz, 1, 1, 2024-10-20;
+c, c1, aaa, 25, nữ, 2, xyz, 1, 1, 2024-10-20;
+d, d1, aaa, 25, nam, 3, xyw, 1, 1, 2024-10-20;
+d, d2, aaa, 25, nam, 3, xyw, 1, 1, 2024-10-20;
