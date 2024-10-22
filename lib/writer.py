@@ -1,4 +1,4 @@
-def writer_overwrite(spark: SparkSession, df: DataFrame, table: str, date_str: str):
+def writer_fact_append(spark: SparkSession, df: DataFrame, table: str, date_str: str):
     spark.sql(f"""ALTER TABLE '{{table}}' DROP IF EXISTS PARTITION (cob_dt = '{date_str}')""")
     df.write.mode('append').insertInto('table')
     print("----- Insert success -----")
